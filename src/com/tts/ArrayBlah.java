@@ -1,8 +1,10 @@
 package com.tts;
 import java.util.Arrays;
+import java.lang.Math;
 
 
-public class arrayblah {
+
+public class ArrayBlah {
         public static void main(String[] args) {
             int size = 5;
             int power = 3;
